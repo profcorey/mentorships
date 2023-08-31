@@ -1,7 +1,7 @@
 # mentorships
 Resources for cloud mentorships
 
-This repository is hosting resources for student mentorships.
+This repository is for hosting resources for student mentorships.
 
 OpenStack
 
