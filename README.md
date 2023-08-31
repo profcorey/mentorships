@@ -5,6 +5,10 @@ This repository is hosting resources for student mentorships.
 
 OpenStack
 
-1. How to install on MacOs M1
+1. How to install DevStack on MacOs M1
 
-2. How to install on Windows 1x 
+  1. Download Canonical Multipass.
+
+  2. Download Microsoft Remote Desktop from Apple App Store.
+
+  3. 
