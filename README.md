@@ -11,4 +11,4 @@ OpenStack
 
   2. Download Microsoft Remote Desktop from Apple App Store.
 
-  3. 
+  3. Configure Multipass virtual machine for 100GB hard drive space and 8GB memory.
