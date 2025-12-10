@@ -2,7 +2,7 @@
 
 VC Mentorships is a platform developed by Dr. Corey Leong, which accelerates the adoption, innovation, and sustainability of open source software.
 
-VC Mentorship is a proposal to the Cloud Native Computing Foundation as a mentorship platform and in the future across the CNCF projects.
+VC Mentorship is a proposal to the Cloud Native Computing Foundation as a mentorship platform supporting an upcoming project called Klaire and potentially across the CNCF projects.
 
 # Fall Term - 2026 August 24 - December 5
 
