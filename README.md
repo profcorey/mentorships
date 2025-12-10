@@ -27,26 +27,9 @@ Mentorship duration - four months (full-time schedule)
 Mentee application instructions can be found on the [Program Guidelines](https://github.com/cncf/mentoring/blob/main/programs/lfx-mentorship/README.md#program-guidelines) page.
 
 
+# Resources for OpenStack mentorships
 
-
-
-
-
-
-
-
-
-
-
-
-
-Resources for OpenStack mentorships
-
-This repository is for hosting resources for student mentorships.
-
-OpenStack
-
-1. How to install DevStack on MacOs M1
+* How to install DevStack on MacOs M1
 
   1. Download Canonical Multipass.
 
