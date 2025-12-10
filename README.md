@@ -1,20 +1,20 @@
 # mentorships
 
-# Cloud Native Mentorships
+# Valencia College Cloud Native (VCCN) Mentorships
 
-VC Mentorships is a platform developed by Dr. Corey Leong, which accelerates the adoption, innovation, and sustainability of open source software.
+VCCN Mentorships is a platform developed by Dr. Corey Leong, which accelerates the adoption, innovation, and sustainability of open source software.
 
-VC Mentorship is a proposal to the Cloud Native Computing Foundation as a mentorship platform supporting an upcoming project called Klaire and potentially across CNCF projects.
+VCCN Mentorship is a proposal to the Cloud Native Computing Foundation as a mentorship platform supporting an upcoming project called Klaire and potentially across CNCF projects.
 
 # Fall Term - 2026 August 24 - December 5
 
 Overall Status: Planning
 
-1. VC will join the Linux Foundation as an Associate Member.
+1. Valencia College will join the Linux Foundation as an Associate Member.
 
 2. Dr. Corey Leong will propose a sandbox project called Klaire and receive TOC approval.
 
-3. VC will join the Cloud Native Foundation as an Associate Member.
+3. Valencia College will join the Cloud Native Foundation as an Associate Member.
 
 4. Funding will be obtained and allocated to be used for sponsoring mentees during program.
 
