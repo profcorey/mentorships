@@ -1,12 +1,24 @@
 # mentorships
 
+# Cloud Native Mentorships
+
 VC Mentorships is a platform developed by Dr. Corey Leong, which accelerates the adoption, innovation, and sustainability of open source software.
 
 VC Mentorship is a proposal to the Cloud Native Computing Foundation as a mentorship platform supporting an upcoming project called Klaire and potentially across the CNCF projects.
 
 # Fall Term - 2026 August 24 - December 5
 
-Status: Planning
+Overall Status: Planning
+
+1. VC will join the Linux Foundation as an Associate Member.
+
+2. Dr. Corey Leong will propose a sandbox project called Klaire and receive TOC approval.
+
+3. VC will join the Cloud Native Foundation as an Associate Member.
+
+4. Funding will be obtained and allocated to be used for sponsoring mentees during program.
+
+5. The schedule below will be solidified before the call for mentees. (Projected to be for 2026)
 
 Mentorship duration - four months (full-time schedule)
 
