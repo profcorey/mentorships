@@ -18,7 +18,7 @@ Overall Status: Planning
 
 4. Funding will be obtained and allocated to be used for sponsoring mentees during program.
 
-5. The schedule below will be solidified before the call for mentees. (Projected to be for 2026)
+5. The schedule below will be finalized before the call for mentees. (Projected to be for 2026)
 
 Mentorship duration - four months (full-time schedule)
 
