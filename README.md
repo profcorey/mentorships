@@ -14,7 +14,7 @@ Mentorship duration - four months (full-time schedule)
 
 | **Activity**                       | **Date**                                                                 |
 |------------------------------------|--------------------------------------------------------------------------|
-| **Selection Notifications**        | Auguest 1 2026                                              |
+| **Call for Mentees**        | Wednesday, July 1, 2026                                              |
 | **Mentorship Program Begins**      | Monday, August, 24 2026                                                    |
 | **Midterm Mentee Evaluations Due** | Tuesday, April 15, 2026 2PM EDT                             |
 | **First Stipend Payments**         | day, ?, 2026                                                |
