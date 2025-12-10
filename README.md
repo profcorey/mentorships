@@ -1,6 +1,6 @@
 # mentorships
 
-# Term 0x - 2026 August 24 - December 5
+# Fall Term - 2026 August 24 - December 5
 
 Status: Planning
 
